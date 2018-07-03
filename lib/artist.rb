@@ -3,6 +3,6 @@
    attr_accessor :name
 
    def initialize
-     @name = "John Lennon" 
+     @name = "John Lennon"
    end
  end
