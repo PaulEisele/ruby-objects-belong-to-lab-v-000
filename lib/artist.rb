@@ -6,4 +6,3 @@
      @name = "John Lennon" 
    end
  end
- 
